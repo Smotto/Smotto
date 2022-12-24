@@ -1,4 +1,7 @@
 ### Hello! I'm a Flutter and Dart developer looking for work!
+Here's my [portfolio](https://smotto.github.io).
+
+- 🔭 I’m currently working on a memory editor for Windows using the Flutter framework.
 
 <!--
 **Smotto/Smotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
