@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello! I'm a Flutter and Dart developer looking for work!
 
 <!--
 **Smotto/Smotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
