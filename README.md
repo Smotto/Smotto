@@ -1,4 +1,4 @@
-Checkout my vocal isolator website! https://huggingface.co/spaces/Smotto/Sing-For-Me
+Checkout my vocal isolator website! https://huggingface.co/spaces/Smotto/Vocal-Isolator
 <!--
 **Smotto/Smotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
