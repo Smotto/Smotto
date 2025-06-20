@@ -1,4 +1,5 @@
 Separate vocals from music! https://huggingface.co/spaces/Smotto/Vocal-Isolator
+Artwork -> https://www.artstation.com/jarodcastillo
 <!--
 **Smotto/Smotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
