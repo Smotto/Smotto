@@ -2,7 +2,7 @@
 
 Software Engineer & Game Developer specializing in graphics programming, AI, and real-time rendering.
 
-- **Pantomime** — Unreal Engine-based educational adventure game
+- **Pantomime** — [Unreal Engine-based educational adventure game](https://store.steampowered.com/app/1375630/Pantomime/)
 - **Pantomir** — Vulkan real-time rendering engine
 - **Vocal Isolator** — [Separate vocals from music files!](https://huggingface.co/spaces/Smotto/Vocal-Isolator)
 
