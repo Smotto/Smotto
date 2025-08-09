@@ -1,10 +1,10 @@
-# Hi, I'm Jarod Castillo 👋
+<img alt="Name" src="https://img.shields.io/badge/Jarod%20Castillo-9CC0E7?style=for-the-badge"> <a href="https://www.artstation.com/jarodcastillo"><img alt="ArtStation" src="https://img.shields.io/badge/ArtStation-9CC0E7?style=for-the-badge&logo=artstation&logoColor=white"></a>
+
 Software Engineer & Game Developer specializing in graphics programming, AI, and real-time rendering.
 
-- **Pantomime** — Unreal Engine-based educational adventure game.
-- **Pantomir** — Vulkan real-time rendering engine.
-- **Vocal Isolator** — [Separate vocals from music files!](https://huggingface.co/spaces/Smotto/Vocal-Isolator).
-- [**ArtStation Portfolio**](https://www.artstation.com/jarodcastillo).
+- **Pantomime** — Unreal Engine-based educational adventure game
+- **Pantomir** — Vulkan real-time rendering engine
+- **Vocal Isolator** — [Separate vocals from music files!](https://huggingface.co/spaces/Smotto/Vocal-Isolator)
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
