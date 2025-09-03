@@ -1,7 +1,7 @@
 <img alt="Name" src="https://img.shields.io/badge/Jarod%20Castillo-0A66C2?style=for-the-badge&logoColor=white"> 
 <a href="https://www.artstation.com/jarodcastillo"><img alt="ArtStation" src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"></a><a href="https://www.youtube.com/@jarodcastillo"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-Software Engineer & Game Developer specializing in graphics programming, AI, and real-time rendering.
+Software Engineer & Game Developer specializing in engine programming, AI, and real-time rendering.
 
 - **Pantomime** — [Unreal Engine-based educational adventure game](https://store.steampowered.com/app/1375630/Pantomime/)
 - **Pantomir** — Vulkan real-time rendering engine
