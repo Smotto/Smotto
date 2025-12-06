@@ -3,7 +3,7 @@
 Software Engineer & Game Developer with an endgame in engine programming, AI, and real-time rendering.
 
 - **Pantomime** — [Unreal Engine-based educational adventure game](https://store.steampowered.com/app/1375630/Pantomime/)
-- **FOV Finder** - [FOVFinder](https://smotto.github.io/FOVFinder/)
+- **FOV Finder** - [Find the FOV of any game image you drag in!](https://smotto.github.io/FOVFinder/) 
 - **Pantomir** — Vulkan real-time rendering engine
 - **Vocal Isolator** — [Separate vocals from music files!](https://huggingface.co/spaces/Smotto/Vocal-Isolator)
 
