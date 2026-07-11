@@ -8,4 +8,4 @@ Software Engineer & Game Developer with an endgame in engine programming, AI, an
 - **Vocal Isolator** — [Separate vocals from music files!](https://huggingface.co/spaces/Smotto/Vocal-Isolator)
 
 ## 🛠 Skill
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)![Claude Code](https://img.shields.io/badge/Claude_Code-9333EA?style=for-the-badge&logo=claude&logoColor=white)
